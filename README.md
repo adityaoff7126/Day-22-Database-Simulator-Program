@@ -90,5 +90,3 @@ Controls the program using user input.
 * Add sorting and filtering
 * Build SQL-like commands
 
-```
-```
