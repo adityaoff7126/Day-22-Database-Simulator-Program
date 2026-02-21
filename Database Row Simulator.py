@@ -56,9 +56,6 @@ def search():
     else:
         print("Invalid index")
 
-def import_json():
-    print("Sucessfully added")
-
 def menu():
     while True:
         print("\n-------- MENU --------")
@@ -92,3 +89,4 @@ def menu():
 
 
 menu()
+
